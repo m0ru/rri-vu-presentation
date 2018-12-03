@@ -3,8 +3,16 @@
 Note:
 some notes here
 
----
+<!--
+screenshots:
 
+* an ADI
+* bee-central: one of the hives
+* bee-central: map with all the bees
+
+-->
+
+---
 
 # Dual Use I
 
@@ -24,7 +32,7 @@ Note:
 <blockquote> 
   for military or other purposes with non-peaceful intents (…) like artificial intelligence and genetics which can be easily weaponised
 </blockquote>
-  <cite>Datta Burton et al. PPT, p. 5</cite>
+  <cite>Datta Burton et al. 2018a, p. 5</cite>
   
 ---
 
@@ -33,7 +41,7 @@ Note:
 <blockquote> 
  does your research affect current standards in military ethics? Does your research involve the development of technologies or the creation of information that could have severe negative impacts on human rights standards (e.g. privacy, stigmatization, discrimination), if misapplied?
 </blockquote>
-  <cite>Datta Burton et al. PPT, p. 23: 2014 version of checklist</cite>
+  <cite>Datta Burton et al. 2018a, p. 23: 2014 version of checklist</cite>
 
 Note:
 * ethics checklist on DU is a requirement only for researchers who want their project to be funded by the EU?
@@ -44,21 +52,40 @@ Note:
 
 # Autonomous Drone Insects (ADIs)
 
-put something about public use here
-pollination
-honey bee-replacement
+  
+  
+![ADI on flower](./screenshots/adi-on-flower.PNG)
+  
+Note:
+* artificial honey bee replacement
+* used for pollination
+* not controlled by a central server
+*  self-replicating
+* used civilly to prevent environmental catastrophe
+* assumption: honey bees have died out -- sabrina: ich glaub, das wird sogar erwähnt
+* open question: do they produce honey? - img opportunity
 
 ---
 
 ## ADIs - Second use
 
-funded by government in exchange for backdoor
+ 	funded by the government
+  
+  have a backdoor for surveillance
+  
+  government/secret service use them
+
+Note:
+* massive privacy invasion
+* fast unmöglich, sich davor zu schützen, weil bees auch basically invisible sind
+* unbekannt, welche und wie gute sensoren da sind
+* klar, dass daten übertragen werden, wir haben beispiele für einen videofeed (screenshot aus der folge) und für positionsdaten (screenshot aus der folge)
 
 ---
 
-## ADIs - Backdoor Problems
+## ADIs - Backdoor
 
-Turns out: wenns eine offizielle backdoor gibt, kann die auch von Dritten missbraucht werden
+Basic problem backdoor: they can be used by third parties
 
 ![Nein! Doch! Ohhh!](https://i.pinimg.com/originals/1d/f9/07/1df90734cdd17488be458d78a2e8caa6.gif)
 
@@ -66,6 +93,9 @@ Turns out: wenns eine offizielle backdoor gibt, kann die auch von Dritten missbr
 static with speech-bubbles:
 https://www.google.com/search?biw=1525&bih=735&tbm=isch&sa=1&ei=MTwFXKrRPIWWjgbO7In4DA&q=nein+doch+oh+gif+captions&oq=nein+doch+oh+gif+captions&gs_l=img.3...6042.7126..7281...0.0..0.152.1084.0j8......1....1..gws-wiz-img.jL5PXueaZfQ#imgrc=62Gl4KCFEgT9AM:
 -->
+
+Note: 
+* security-diskussion entweder hier oder später mit anderen "improvements"
 
 ---
 
@@ -78,6 +108,7 @@ menschen werden durch einzelne bienen umgebracht, aber noch unklar, wie
 ## ADIs - Image Recognition
 
 anderes "tolles" dual-use example
+
 side-rant über face-recognition
 
 ---
@@ -104,7 +135,7 @@ not part of the papers, but kinda relevant here
 
 # that big-ass database
 
-intro. spieltnur als großes telefonbuch eine rolle, hat aber auch großes dual use potential
+intro. spielt nur als großes telefonbuch eine rolle, hat aber auch großes dual use potential -- reverse image lookup offensichtlich möglich!
 
 also something about surveillance here
 
@@ -133,6 +164,9 @@ big twist: turns out, some guy does this because his girl friend got bullyied on
 [13]: https://www.bmi.gv.at/414/start.aspx
 [14]: https://derstandard.at/2000007395181/Personenstandsregister-Das-Standesamt-ist-ein-Serverraum
 [15]: http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm
+
+Datta Burton et al. 2018a = presentation
+Datta Burton et al. 2018 = report
 
 ---
 
