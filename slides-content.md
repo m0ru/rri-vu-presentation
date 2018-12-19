@@ -22,7 +22,9 @@ to quote dean martin: let me tell you 'bout the birds and the bees ...
 
 # Hated In the Nation
 
-**Content Note**: remote killing, dehumanization. also, some gifs to lighten up the mood every now and then.
+**Content Note**: remote killing, dehumanization. 
+
+also, some gifs to lighten up the mood every now and then.
 
 Note:
 
