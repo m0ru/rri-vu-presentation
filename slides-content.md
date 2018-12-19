@@ -107,7 +107,9 @@ Note:
 
 ## Spoiler Alert!
 
-![Spoiler Alert!](https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi)
+![Spoiler Alert!](./pictures/spoiler-alert.gif)
+
+<div class="caption">Source: <a href="https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi">https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi</a></div>
 
 Note:
 * basic problem of backdoors: 
@@ -115,8 +117,9 @@ Note:
 
 ---
 
+## 💻🐱‍👤 Backdoor
 
-## ADIs - Backdoor
+<!-- ADI-Backdoor  -->
 
 ![Nein! Doch! Ohhh!](https://i.pinimg.com/originals/1d/f9/07/1df90734cdd17488be458d78a2e8caa6.gif)
 
