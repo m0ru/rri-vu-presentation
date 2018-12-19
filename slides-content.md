@@ -107,7 +107,8 @@ Note:
 
 Note:
 * basic problem of backdoors: 
-* they can be used by third parties
+  * they can be used by third parties
+  * they break security by design
 
 ---
 
@@ -133,11 +134,11 @@ Note:
 ![](./screenshots/adi-in-petri-dish.PNG)
 
 Note:
-* honey bees have died out
-* they've been replaced by ADIs - because there's no other insect that could possibly pollinate plants
-* someone took over ADIs
+* honey bees have died out and have been replaced by ADIs
+* because there's no other possible way to pollinate plants (or maybe it is for the honey?)
+* someone took over some ADIs
 * and used them to kill people
-* controlled via unknown means
+* controlled via (as of now) unknown means
 
 ---
 
@@ -167,11 +168,14 @@ really not as good as people say it was. cf Berlin Südkreuz, with "success" rat
 
 Note:
 * ADIs are self-reproducing devices
-* dual use:
-  * easily getting replacement parts
-  * ???
-* offensichtlich auch in militärischem Kontext nutzbar, weil was einen schraubenschlüssel printen kann, kann auch munition machen
-* ebenfalls dual-use, weil sowohl in civil als auch military contexts nutzbar
+* civil use:
+  * cheap mass production that can be relocated
+  * usable in many different contexts
+  * easily getting replacement parts (e.g. for medical devices)
+  * ability to easily personalize everything, up to implants
+* military use
+  * can be used for producing weapons, too
+
 * ADIs build hives, hives reproduce ADIs (from what resources, though?)
 
 ---
@@ -182,9 +186,9 @@ Note:
 
 Note:
 * targets are selected via pseudo twitter
-* recognised via uploaded image and image recognition
-* "the game of consequences" video!
-* somehow, ADIs kill a person if their name & picture got shared under a hashtag on a twitter-like social media often enough
+* hate-hitlist that's generated via counting #deathTo tweets
+* victims get recognized via uploaded image and image recognition
+* started by the "the game of consequences" video in the episode
 
 ---
 
@@ -196,7 +200,7 @@ Note:
 
 * not part of the papers, but relevant here
 * ask whether game of consequences is a good way to deal with cyber bullying
-* it is,  basically, just trying to hold ppl responsible for the things they said/did online
+* it is, basically, just trying to hold people responsible for things they said/did online
 
 ---
 
@@ -205,9 +209,13 @@ Note:
 ![](./screenshots/big-ass-database.PNG)
 
 Note:
-* in the episode, the database is basically used as big ass phone book, but it DOES have a big dual use potential -- reverse image lookup is obviously possible, proof of concept by blue
-* also something about surveillance here
+* in the episode, the database is only used as big ass phone book
+* but it DOES have a big dual use potential -- as do all other surveillance methods
+* reverse image lookup is obviously possible, proof of concept by blue
+* side-rant: surveillance is maybe not always the best idea
 * most unrealistic part: current, good-quality pics of everyone. and that's pretty scary, innit?
+
+* also: databases like that are usually *not* secure - lampshaded in the episode
 
 ---
 
@@ -221,8 +229,8 @@ static: ![bees cooperating to break down windows](https://thesnarkingdeadrecaps.
 
 Note:
 * bees will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
-* bees are pretty much unkaputtbar
-* discussion note: bees are only turned off when prime minister gets targeted -> some are more equal
+* bees are pretty much unkaputtbar - some may be taken out, but they are self-replicating
+* discussion: bees are only turned off when prime minister gets targeted, not when other people are
 
 ---
 
@@ -231,11 +239,12 @@ Note:
 ![](./screenshots/death-list.PNG)
 
 Note:
-* turns out, some guy does this because his girl friend got bullyied on social media and he wants to show that bullying is bad
+* turns out, some guy does this to show that bullying is bad
+* because his girl friend got bullyied on social media and committed suicide
 * actual "game of consequences" is triggered by bee-killswitch
 * victims are those that USED #deathTo
 
-~ real life applications:
+real life comparison:
 * several countries groups *have* kill lists
 * eg: the US, Syria, the NATO, Russia,... [16]
 * terrorists, "dangerous people", etc.
@@ -252,7 +261,7 @@ Note:
 * targeted assassinations executed by: all the above, france, the UK
 * quellen: [16], [17], [18]
 
-<!-- the drone-strike on family vid  - Nope, too graphic/depressing -->
+<!-- the drone-strike on family vid  - nope, too graphic/depressing -->
 
 ---
 
@@ -270,7 +279,8 @@ Note:
 Note:
 
 * currently happening - see terror tuesday
-* close to episode, but smaller drones & "only" individuals targeted in episode
+* parallels can be seen between actual drone killings and that episode
+* bees are basically smaller drones & "only" targetted individuals get killed
 
 ---
 
@@ -303,14 +313,19 @@ Note:
 ![](https://d2si46jc38oa3k.cloudfront.net/system/images/links/l900/63/636881f8c75222f8.jpg)
 no info on (c): https://medium.com/s/story/how-to-fix-what-social-media-has-broken-cb0b2737128
 
+should be ok to use: medium's ToS allow only own pics or pics where the author holds all necessary rights
 
 
 Note:
-* bees: can't really be made "hacking proof" - see discussion we've had
+* bees: can't really be made "hacking proof"
+  * networking & updateable: can be taken over via update process
+  * non-networking: all security flaws are permanent
+  * malicious users easily get access to individual ADIs or hives
 * environmental conservation effort probably preferable
 * plus, there are other pollinating insects, we promise
 
-* dual use: only with increased ethical understanding of computer scientists, which is a whole other can of worms
+* dual use: can only be fixed with increased ethical understanding
+  * of computer scientists, which is a whole other can of worms
 
 other stuff
 
