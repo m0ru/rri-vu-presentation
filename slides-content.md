@@ -5,6 +5,7 @@
 - [x] bilder an passende stellen einfuegen
 - [ ] notes ausformulieren
 - [ ] s/b/🐝/
+- [ ] make sure all images are local
 -->
 
 **A Musical Prelude:**
@@ -22,11 +23,15 @@ to quote dean martin: let me tell you 'bout the birds and the bees ...
 
 # Hated In the Nation
 
-**Content Note:** remote killing, dehumanization. also, some gifs to lighten up the mood every now and then.
+**Content Note**: remote killing, dehumanization. 
+
+also, some gifs to lighten up the mood every now and then.
 
 Note:
 
-(sabrina) // start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying** // also, we want to make the presentation less linear and will inlcude information on the plot throughout the presentation where/when it fits
+(sabrina)
+* start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying**
+* also, we want to make the presentation less linear and will inlcude information on the **plot throughout** the presentation where/when it fits
 
 ---
 
@@ -49,8 +54,8 @@ Note:
 <blockquote> 
   for military or other purposes with non-peaceful intents (…) like artificial intelligence and genetics which can be easily weaponised
 </blockquote>
-  <cite>Datta Burton et al. [10], p. 5</cite>
-  
+<cite>Datta Burton et al. [10], p. 5</cite>
+
 ---
 
 # Dual Use III
@@ -58,7 +63,7 @@ Note:
 <blockquote> 
  does your research affect current standards in military ethics? Does your research involve the development of technologies or the creation of information that could have severe negative impacts on human rights standards (e.g. privacy, stigmatization, discrimination), if misapplied?
 </blockquote>
-  <cite>Datta Burton et al. [10], p. 23</cite>
+<cite>Datta Burton et al. [10], p. 23</cite>
 
 Note:
 (sabrina)
@@ -103,7 +108,9 @@ Note:
 
 ## Spoiler Alert!
 
-![Spoiler Alert!](https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi)
+![Spoiler Alert!](./pictures/spoiler-alert.gif)
+
+<div class="caption">Source: <a href="https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi">https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi</a></div>
 
 Note:
 * basic problem of backdoors: 
@@ -112,8 +119,9 @@ Note:
 
 ---
 
+## 💻🐱‍👤 Backdoor
 
-## ADIs - Backdoor
+<!-- ADI-Backdoor  -->
 
 ![Nein! Doch! Ohhh!](https://i.pinimg.com/originals/1d/f9/07/1df90734cdd17488be458d78a2e8caa6.gif)
 
@@ -144,7 +152,7 @@ Note:
 
 ## Image Recognition
 
-![](https://www.flickr.com/photos/gastev/15632628574)
+![](./pictures/face_recognition.jpg)
 
 <div class="caption">source: [flickr](https://www.flickr.com/photos/gastev/15632628574)</div>
 
@@ -224,7 +232,9 @@ Note:
 <!--
 static: ![bees cooperating to break down windows](https://thesnarkingdeadrecaps.files.wordpress.com/2016/11/bm-s3-e6-bee-attack.jpg?w=700&resize=700%2C322) -->
 
-![bees cooperating to break down windows](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjg3ZSFxYTfAhVD2aQKHcf2CkQQjRx6BAgBEAU&url=https%3A%2F%2Fgingesbecray.com%2Fblack-mirror-s3e06-hated-in-the-nation-recap%2F&psig=AOvVaw3xbJhpCkbgnMVssB2BpnJK&ust=1543956695394920)
+![bees cooperating to break down windows](./pictures/bees-on-window.gif)
+
+<div class="caption">Source: <a href="https://gingesbecray.com/black-mirror-s3e06-hated-in-the-nation-recap/">Ginges Be Cray<a></div>
 
 
 Note:
