@@ -6,7 +6,7 @@
 - [x] notes ausformulieren
 - [x] s/b/🐝/
 - [x] make sure all images are local
-- [ ] auto-format everything.
+- [x] auto-format everything.
 -->
 
 **A Musical Prelude:**
@@ -24,15 +24,16 @@ to quote dean martin: let me tell you 'bout the birds and the 🐝🐝 ...
 
 # Hated In the Nation
 
-**Content Note**: remote killing, dehumanization. 
+**Content Note**: remote killing, dehumanization.
 
 also, some gifs to lighten up the mood every now and then.
 
 Note:
 
 (sabrina)
-* start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying**
-* also, we want to make the presentation less linear and will inlcude information on the **plot throughout** the presentation where/when it fits
+
+- start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying**
+- also, we want to make the presentation less linear and will inlcude information on the **plot throughout** the presentation where/when it fits
 
 ---
 
@@ -45,8 +46,9 @@ Note:
 
 Note:
 (sabrina)
-* what is civil, what is military? where/what is police work? if police is civil, then there are lots of technologies with harmful intents.
-* what constitutes a  weapons of mass destruction (WMD) -- are the ADIs WMDs? [11]
+
+- what is civil, what is military? where/what is police work? if police is civil, then there are lots of technologies with harmful intents.
+- what constitutes a weapons of mass destruction (WMD) -- are the ADIs WMDs? [11]
 
 ---
 
@@ -68,25 +70,27 @@ Note:
 
 Note:
 (sabrina)
-* this is the 2014 version of the EU DU checklist 
-* ethics checklist on DU is a requirement only for researchers who want their project to be funded by the EU?
-* it's all about the trade-offs -- economy vs. personal security, surveillance, privacy, human rights, ...
-* see also discussion about China having an advantage because they don't care about ethics "as much as Europe does" (which IMO is not much to begin with)
+
+- this is the 2014 version of the EU DU checklist
+- ethics checklist on DU is a requirement only for researchers who want their project to be funded by the EU?
+- it's all about the trade-offs -- economy vs. personal security, surveillance, privacy, human rights, ...
+- see also discussion about China having an advantage because they don't care about ethics "as much as Europe does" (which IMO is not much to begin with)
 
 ---
 
 # Autonomous Drone Insects (ADIs)
 
 ![ADI on flower](./screenshots/adi-on-flower.PNG)
-  
+
 Note:
-* artificial honey 🐝 replacement
-* used for pollination
-* not controlled by a central server
-* self-replicating
-* used civilly to prevent environmental catastrophe
-* because honey 🐝🐝 have died out - and as we all know, no other insects pollinate, ever
-* open question: do they produce honey?
+
+- artificial honey 🐝 replacement
+- used for pollination
+- not controlled by a central server
+- self-replicating
+- used civilly to prevent environmental catastrophe
+- because honey 🐝🐝 have died out - and as we all know, no other insects pollinate, ever
+- open question: do they produce honey?
 
 ---
 
@@ -97,13 +101,14 @@ Note:
 <div class="caption">Picture: [wikimedia](https://commons.wikimedia.org/wiki/File:Predator_and_Hellfire.jpg)</div>
 
 Note:
-* funded by the government
-* have a backdoor for surveillance
-* government/secret service use them
 
-* massive privacy invasion
-* 🐝🐝 are basically invisible -> hard to protect against
-* data *is* transmitted, we see examples of videofeeds and position data
+- funded by the government
+- have a backdoor for surveillance
+- government/secret service use them
+
+- massive privacy invasion
+- 🐝🐝 are basically invisible -> hard to protect against
+- data _is_ transmitted, we see examples of videofeeds and position data
 
 ---
 
@@ -114,9 +119,10 @@ Note:
 <div class="caption">Picture: <a href="https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi">https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi</a></div>
 
 Note:
-* basic problem of backdoors: 
-  * they can be used by third parties
-  * they break security by design
+
+- basic problem of backdoors:
+  - they can be used by third parties
+  - they break security by design
 
 ---
 
@@ -131,23 +137,24 @@ static with speech-bubbles:
 https://www.google.com/search?biw=1525&bih=735&tbm=isch&sa=1&ei=MTwFXKrRPIWWjgbO7In4DA&q=nein+doch+oh+gif+captions&oq=nein+doch+oh+gif+captions&gs_l=img.3...6042.7126..7281...0.0..0.152.1084.0j8......1....1..gws-wiz-img.jL5PXueaZfQ#imgrc=62Gl4KCFEgT9AM:
 -->
 
-Note: 
-* they got hacked.
-* security-discussion later with other "improvements"
+Note:
+
+- they got hacked.
+- security-discussion later with other "improvements"
 
 ---
-
 
 ## Introduction: the Plot
 
 ![](./screenshots/adi-in-petri-dish.PNG)
 
 Note:
-* honey 🐝🐝 have died out and have 🐝n replaced by ADIs
-* because there's no other possible way to pollinate plants (or maybe it is for the honey?)
-* someone took over some ADIs
-* and used them to kill people
-* controlled via (as of now) unknown means
+
+- honey 🐝🐝 have died out and have 🐝n replaced by ADIs
+- because there's no other possible way to pollinate plants (or maybe it is for the honey?)
+- someone took over some ADIs
+- and used them to kill people
+- controlled via (as of now) unknown means
 
 ---
 
@@ -159,15 +166,16 @@ Note:
 
 Note:
 (sabrina)
-* used by ADIs to find ~~victims~~ flowers
-* dual use: 
-  * helping you sort and find pictures
-  * used for surveillance
-* side-rant: face-recognition
-* side-rant: lack of researchers' responsibility
 
-* facial recognition: 
-really not as good as people say it was. cf Berlin Südkreuz, with "success" rates of about 75 % (resulting in hundreds of false positives for ONE true positive)
+- used by ADIs to find ~~victims~~ flowers
+- dual use:
+  - helping you sort and find pictures
+  - used for surveillance
+- side-rant: face-recognition
+- side-rant: lack of researchers' responsibility
+
+- facial recognition:
+  really not as good as people say it was. cf Berlin Südkreuz, with "success" rates of about 75 % (resulting in hundreds of false positives for ONE true positive)
 
 ---
 
@@ -176,16 +184,18 @@ really not as good as people say it was. cf Berlin Südkreuz, with "success" rat
 ![](./screenshots/bee-hive-many-bees.PNG)
 
 Note:
-* ADIs are self-reproducing devices
-* civil use:
-  * cheap mass production that can be relocated
-  * usable in many different contexts
-  * easily getting replacement parts (e.g. for medical devices)
-  * ability to easily personalize everything, up to implants
-* military use
-  * can be used for producing weapons, too
 
-* ADIs build hives, hives reproduce 🐝🐝 (from what resources, though?)
+- ADIs are self-reproducing devices
+- civil use:
+  - cheap mass production that can be relocated
+  - usable in many different contexts
+  - easily getting replacement parts (e.g. for medical devices)
+  - ability to easily personalize everything, up to implants
+- military use
+
+  - can be used for producing weapons, too
+
+- ADIs build hives, hives reproduce 🐝🐝 (from what resources, though?)
 
 ---
 
@@ -194,10 +204,11 @@ Note:
 ![](./screenshots/death-to-tusk.PNG)
 
 Note:
-* targets are selected via pseudo twitter
-* hate-hitlist that's generated via counting #deathTo tweets
-* victims get recognized via uploaded image and image recognition
-* started by the "the game of consequences" video in the episode
+
+- targets are selected via pseudo twitter
+- hate-hitlist that's generated via counting #deathTo tweets
+- victims get recognized via uploaded image and image recognition
+- started by the "the game of consequences" video in the episode
 
 ---
 
@@ -207,9 +218,9 @@ Note:
 
 Note:
 
-* not part of the papers, but relevant here
-* ask whether game of consequences is a good way to deal with cyber bullying
-* it is, basically, just trying to hold people responsible for things they said/did online
+- not part of the papers, but relevant here
+- ask whether game of consequences is a good way to deal with cyber bullying
+- it is, basically, just trying to hold people responsible for things they said/did online
 
 ---
 
@@ -218,13 +229,14 @@ Note:
 ![](./screenshots/big-ass-database.PNG)
 
 Note:
-* in the episode, the database is only used as big ass phone book
-* but it DOES have a big dual use potential -- as do all other surveillance methods
-* reverse image lookup is obviously possible, proof of concept by blue
-* side-rant: surveillance is maybe not always the best idea
-* most unrealistic part: current, good-quality pics of everyone. and that's pretty scary, innit?
 
-* also: databases like that are usually *not* secure - lampshaded in the episode
+- in the episode, the database is only used as big ass phone book
+- but it DOES have a big dual use potential -- as do all other surveillance methods
+- reverse image lookup is obviously possible, proof of concept by blue
+- side-rant: surveillance is maybe not always the best idea
+- most unrealistic part: current, good-quality pics of everyone. and that's pretty scary, innit?
+
+- also: databases like that are usually _not_ secure - lampshaded in the episode
 
 ---
 
@@ -235,9 +247,10 @@ Note:
 <div class="caption">Photo: <a href="https://gingesbecray.com/black-mirror-s3e06-hated-in-the-nation-recap/">Ginges Be Cray</a></div>
 
 Note:
-* 🐝🐝🐝 will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
-* they are pretty much unkaputtbar - some may be taken out, but they are self-replicating
-* discussion: 🐝🐝 are only turned off when prime minister gets targeted, not when other people are
+
+- 🐝🐝🐝 will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
+- they are pretty much unkaputtbar - some may be taken out, but they are self-replicating
+- discussion: 🐝🐝 are only turned off when prime minister gets targeted, not when other people are
 
 ---
 
@@ -246,15 +259,17 @@ Note:
 ![](./screenshots/death-list.PNG)
 
 Note:
-* turns out, some guy does this to show that bullying is bad
-* because his girl friend got bullyied on social media and committed suicide
-* actual "game of consequences" is triggered by 🐝-killswitch 💀
-* victims are those that USED #deathTo
+
+- turns out, some guy does this to show that bullying is bad
+- because his girl friend got bullyied on social media and committed suicide
+- actual "game of consequences" is triggered by 🐝-killswitch 💀
+- victims are those that USED #deathTo
 
 real life comparison:
-* several countries groups *have* kill lists
-* eg: the US, Syria, the NATO, Russia,... [16]
-* terrorists, "dangerous people", etc.
+
+- several countries groups _have_ kill lists
+- eg: the US, Syria, the NATO, Russia,... [16]
+- terrorists, "dangerous people", etc.
 
 ---
 
@@ -265,9 +280,10 @@ real life comparison:
 <div class="caption">Picture: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Death_Note,_Book.svg)</div>
 
 Note:
-* terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
-* targeted assassinations executed by: all the above, france, the UK
-* quellen: [16], [17], [18]
+
+- terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
+- targeted assassinations executed by: all the above, france, the UK
+- quellen: [16], [17], [18]
 
 <!-- the drone-strike on family vid  - nope, too graphic/depressing -->
 
@@ -281,9 +297,9 @@ Note:
 
 Note:
 
-* currently happening - see terror tuesday
-* parallels can be seen between actual drone killings and that episode
-* bees are basically smaller drones & "only" targetted individuals get killed
+- currently happening - see terror tuesday
+- parallels can be seen between actual drone killings and that episode
+- bees are basically smaller drones & "only" targetted individuals get killed
 
 ---
 
@@ -295,9 +311,9 @@ Note:
 
 Note:
 
-* currently happening - see terror tuesday
-* parallels can be seen between actual drone killings and that episode
-* 🐝🐝 are basically smaller drones & "only" targetted individuals get killed
+- currently happening - see terror tuesday
+- parallels can be seen between actual drone killings and that episode
+- 🐝🐝 are basically smaller drones & "only" targetted individuals get killed
 
 ---
 
@@ -310,20 +326,21 @@ Source: <a href="http://drones.pitchinteractive.com/">http://drones.pitchinterac
 </div>
 
 Note:
-* information on drone strikes in Pakistan since 2004
-* bar on top shows: number of killings in categories -- left to right: children, civilians, high profile, "other"
-* graphic below: same data as above, but for each drone strike
 
---- 
+- information on drone strikes in Pakistan since 2004
+- bar on top shows: number of killings in categories -- left to right: children, civilians, high profile, "other"
+- graphic below: same data as above, but for each drone strike
+
+---
 
 # Recap - angesprochene Themen
 
-* Autonomous Drones
-* Image Recognition
-* 3D Printing
-* Surveillance
-* Cyber bullying
-* Drone killings
+- Autonomous Drones
+- Image Recognition
+- 3D Printing
+- Surveillance
+- Cyber bullying
+- Drone killings
 
 🐝🦜🌸🐝🐝🏃‍♀️🐝🐝🐝😱💀🐝🐝💻🐝🐝🐝🐝🐝🐝💀💀💀💀💀💀💀💀
 
@@ -340,20 +357,21 @@ Photo: <a href="https://medium.com/s/story/how-to-fix-what-social-media-has-brok
 <!-- should be ok to use: medium's ToS allow only own pics or pics where the author holds all necessary rights -->
 
 Note:
-* don't put backdoors into your shit
-* don't build self-replicating devices
-* hard-coded behaviour (as in hardware-coded)
-* predetermined lifetime -> bugs get fixed via replacement
 
-* 🐝🐝: can't really be made "hacking proof"
-* environmental conservation effort probably preferable
-* plus, there are other pollinating insects, we promise
+- don't put backdoors into your shit
+- don't build self-replicating devices
+- hard-coded behaviour (as in hardware-coded)
+- predetermined lifetime -> bugs get fixed via replacement
 
-* that big ass database: don't make one - separate information
+- 🐝🐝: can't really be made "hacking proof"
+- environmental conservation effort probably preferable
+- plus, there are other pollinating insects, we promise
 
-* dual use: can only be fixed with increased ethical understanding
-  * which many engineers and computer scientists lack
-  * as well as a lot of other people, but they tend to have less influence
+- that big ass database: don't make one - separate information
+
+- dual use: can only be fixed with increased ethical understanding
+  - which many engineers and computer scientists lack
+  - as well as a lot of other people, but they tend to have less influence
 
 ---
 
