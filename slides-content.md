@@ -338,19 +338,20 @@ Photo: <a href="https://medium.com/s/story/how-to-fix-what-social-media-has-brok
 <!-- should be ok to use: medium's ToS allow only own pics or pics where the author holds all necessary rights -->
 
 Note:
+* don't put backdoors into your shit
+* don't build self-replicating devices
+* hard-coded behaviour (as in hardware-coded)
+* predetermined lifetime -> bugs get fixed via replacement
+
 * 🐝🐝: can't really be made "hacking proof"
-  * networking & updateable: can be taken over via update process
-  * non-networking: all security flaws are permanent
-  * malicious users easily get access to individual ADIs or hives
 * environmental conservation effort probably preferable
 * plus, there are other pollinating insects, we promise
 
-* that big ass database: don't make one
+* that big ass database: don't make one - separate information
 
 * dual use: can only be fixed with increased ethical understanding
   * which many engineers and computer scientists lack
-
-other stuff
+  * as well as a lot of other people, but they tend to have less influence
 
 ---
 
