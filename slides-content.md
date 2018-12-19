@@ -3,7 +3,7 @@
 - [x] TODOs durchgehen
 - [x] folientext ausformulieren
 - [x] bilder an passende stellen einfuegen
-- [ ] notes ausformulieren
+- [x] notes ausformulieren
 - [ ] s/b/🐝/
 - [ ] make sure all images are local
 -->
@@ -17,7 +17,7 @@
 <div class="caption">Source: <a href="https://9gag.com/gag/a73MqYw">https://9gag.com/gag/a73MqYw</a> </div>
   
 Note:
-to quote dean martin: let me tell you 'bout the birds and the bees ...
+to quote dean martin: let me tell you 'bout the birds and the 🐝🐝 ...
 
 ---
 
@@ -79,12 +79,12 @@ Note:
 ![ADI on flower](./screenshots/adi-on-flower.PNG)
   
 Note:
-* artificial honey bee replacement
+* artificial honey 🐝 replacement
 * used for pollination
 * not controlled by a central server
-*  self-replicating
+* self-replicating
 * used civilly to prevent environmental catastrophe
-* because honey bees have died out - and as we all know, no other insects pollinate, ever
+* because honey 🐝🐝 have died out - and as we all know, no other insects pollinate, ever
 * open question: do they produce honey?
 
 ---
@@ -101,7 +101,7 @@ Note:
 * government/secret service use them
 
 * massive privacy invasion
-* bees are basically invisible -> hard to protect against
+* 🐝🐝 are basically invisible -> hard to protect against
 * data *is* transmitted, we see examples of videofeeds and position data
 
 ---
@@ -142,7 +142,7 @@ Note:
 ![](./screenshots/adi-in-petri-dish.PNG)
 
 Note:
-* honey bees have died out and have been replaced by ADIs
+* honey 🐝🐝 have died out and have 🐝n replaced by ADIs
 * because there's no other possible way to pollinate plants (or maybe it is for the honey?)
 * someone took over some ADIs
 * and used them to kill people
@@ -184,7 +184,7 @@ Note:
 * military use
   * can be used for producing weapons, too
 
-* ADIs build hives, hives reproduce ADIs (from what resources, though?)
+* ADIs build hives, hives reproduce 🐝🐝 (from what resources, though?)
 
 ---
 
@@ -238,9 +238,9 @@ static: ![bees cooperating to break down windows](https://thesnarkingdeadrecaps.
 
 
 Note:
-* bees will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
-* bees are pretty much unkaputtbar - some may be taken out, but they are self-replicating
-* discussion: bees are only turned off when prime minister gets targeted, not when other people are
+* 🐝🐝🐝 will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
+* they are pretty much unkaputtbar - some may be taken out, but they are self-replicating
+* discussion: 🐝🐝 are only turned off when prime minister gets targeted, not when other people are
 
 ---
 
@@ -251,7 +251,7 @@ Note:
 Note:
 * turns out, some guy does this to show that bullying is bad
 * because his girl friend got bullyied on social media and committed suicide
-* actual "game of consequences" is triggered by bee-killswitch
+* actual "game of consequences" is triggered by 🐝-killswitch 💀
 * victims are those that USED #deathTo
 
 real life comparison:
@@ -290,7 +290,7 @@ Note:
 
 * currently happening - see terror tuesday
 * parallels can be seen between actual drone killings and that episode
-* bees are basically smaller drones & "only" targetted individuals get killed
+* 🐝🐝 are basically smaller drones & "only" targetted individuals get killed
 
 ---
 
@@ -327,7 +327,7 @@ should be ok to use: medium's ToS allow only own pics or pics where the author h
 
 
 Note:
-* bees: can't really be made "hacking proof"
+* 🐝🐝: can't really be made "hacking proof"
   * networking & updateable: can be taken over via update process
   * non-networking: all security flaws are permanent
   * malicious users easily get access to individual ADIs or hives
