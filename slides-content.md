@@ -229,13 +229,9 @@ Note:
 
 # Back to the Plot
 
-<!--
-static: ![bees cooperating to break down windows](https://thesnarkingdeadrecaps.files.wordpress.com/2016/11/bm-s3-e6-bee-attack.jpg?w=700&resize=700%2C322) -->
-
 ![bees cooperating to break down windows](./pictures/bees-on-window.gif)
 
-<div class="caption">Source: <a href="https://gingesbecray.com/black-mirror-s3e06-hated-in-the-nation-recap/">Ginges Be Cray<a></div>
-
+<div class="caption">Source: <a href="https://gingesbecray.com/black-mirror-s3e06-hated-in-the-nation-recap/">Ginges Be Cray</a></div>
 
 Note:
 * 🐝🐝🐝 will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
