@@ -4,8 +4,9 @@
 - [x] folientext ausformulieren
 - [x] bilder an passende stellen einfuegen
 - [x] notes ausformulieren
-- [ ] s/b/🐝/
-- [ ] make sure all images are local
+- [x] s/b/🐝/
+- [x] make sure all images are local
+- [ ] auto-format everything.
 -->
 
 **A Musical Prelude:**
@@ -91,7 +92,7 @@ Note:
 
 ## ADIs - Second Use
 
-![two drones, I guess](https://upload.wikimedia.org/wikipedia/commons/2/2e/Predator_and_Hellfire.jpg) 
+![two drones, I guess](./pictures/Predator_and_Hellfire.jpg)
 
 <div class="caption">Picture: [wikimedia](https://commons.wikimedia.org/wiki/File:Predator_and_Hellfire.jpg)</div>
 
@@ -123,7 +124,7 @@ Note:
 
 <!-- ADI-Backdoor  -->
 
-![Nein! Doch! Ohhh!](https://i.pinimg.com/originals/1d/f9/07/1df90734cdd17488be458d78a2e8caa6.gif)
+![Nein! Doch! Ohhh!](./pictures/nein-doch-oh.gif)
 
 <!--
 static with speech-bubbles:
@@ -259,7 +260,8 @@ real life comparison:
 
 # Terror Tuesday
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Death_Note%2C_Book.svg)
+![](./pictures/death-note.svg)
+
 <div class="caption">Picture: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Death_Note,_Book.svg)</div>
 
 Note:
@@ -273,7 +275,7 @@ Note:
 
 # Drone Killings
 
-![](https://c1.staticflickr.com/3/2944/15440228802_2d44566cef_b.jpg)
+![](./pictures/drone-wars-murder-by-executive-order.jpg)
 
 <div class="caption">Photo: [Stephen Melkisethian](https://www.flickr.com/photos/stephenmelkisethian/15440228802/in/photolist-pwpd6q-o2xXcV-nhy3vH-36BKyv-bYcJ6s-66E8fu-bXvxgm-hs9gHM-fmBB1X-iLvBb7-nkTfWJ-dHkxbE-3jAjTF-kGJLiY-a1gXcN-kjTPNB-euGaH9-g3GVCn-hpDP1Z-puotz9-e2fUQf-dkLpYZ-qMUsc4-DhciEQ-tVgwTv-8C7wnY-niNBDQ-omi8xg-4Ajswp-qk6NXE-dp2Qz9-f81YTF-rAHRTd-rmSK2J-nXgmr3-7pcaik-oageb3-7pg2Sb-eiA5LB-7ByiT3-qhDigK-7J6MzM-nVEe35-mhxdbk-qokmec-bbHupc-7JaJ21-dJp7Q3-p8KpeC-kMJGxx) / Flickr Creative Commons</div>
 
@@ -287,7 +289,7 @@ Note:
 
 # Drone Killings
 
-![](https://assets2.thebureauinvestigates.com/uploads/_headerMedium/Ob328-Madrassa-aftermath-REUTERSSyed-Shah.jpg?mtime=20170206132907)
+![](./pictures/Ob328-Madrassa-aftermath-REUTERSSyed-Shah.jpg)
 
 <div class="caption">Photo:  [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/stories/2014-05-23/most-us-drone-strikes-in-pakistan-attack-houses)</div>
 
@@ -329,7 +331,7 @@ Note:
 
 # Potential Fixes
 
-![](https://d2si46jc38oa3k.cloudfront.net/system/images/links/l900/63/636881f8c75222f8.jpg)
+![](./pictures/move-fast.png)
 
 <div class="caption">
 Photo: <a href="https://medium.com/s/story/how-to-fix-what-social-media-has-broken-cb0b2737128">Tobias Rose-Stockwell</a>
