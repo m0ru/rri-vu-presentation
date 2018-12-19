@@ -26,11 +26,7 @@ to quote dean martin: let me tell you 'bout the birds and the bees ...
 
 Note:
 
-(sabrina)
-
-start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying**
-
-also, we want to make the presentation less linear and will inlcude information on the plot throughout the presentation where/when it fits
+(sabrina) // start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying** // also, we want to make the presentation less linear and will inlcude information on the plot throughout the presentation where/when it fits
 
 ---
 
@@ -42,11 +38,9 @@ also, we want to make the presentation less linear and will inlcude information 
 <cite>European Commission, [15]</cite>
 
 Note:
-
 (sabrina)
-
-- what is civil, what is military? where/what is police work? if police is civil, then there are lots of technologies with harmful intents.
-- what constitutes a weapons of mass destruction (WMD) -- are the ADIs WMDs? [11]
+* what is civil, what is military? where/what is police work? if police is civil, then there are lots of technologies with harmful intents.
+* what constitutes a  weapons of mass destruction (WMD) -- are the ADIs WMDs? [11]
 
 ---
 
@@ -68,45 +62,42 @@ Note:
 
 Note:
 (sabrina)
-
-- this is the 2014 version of the EU DU checklist
-- ethics checklist on DU is a requirement only for researchers who want their project to be funded by the EU?
-- it's all about the trade-offs -- economy vs. personal security, surveillance, privacy, human rights, ...
-- see also discussion about China having an advantage because they don't care about ethics "as much as Europe does" (which IMO is not much to begin with)
+* this is the 2014 version of the EU DU checklist 
+* ethics checklist on DU is a requirement only for researchers who want their project to be funded by the EU?
+* it's all about the trade-offs -- economy vs. personal security, surveillance, privacy, human rights, ...
+* see also discussion about China having an advantage because they don't care about ethics "as much as Europe does" (which IMO is not much to begin with)
 
 ---
 
 # Autonomous Drone Insects (ADIs)
 
 ![ADI on flower](./screenshots/adi-on-flower.PNG)
-
+  
 Note:
-
-- artificial honey bee replacement
-- used for pollination
-- not controlled by a central server
-- self-replicating
-- used civilly to prevent environmental catastrophe
-- because honey bees have died out - and as we all know, no other insects pollinate, ever
-- open question: do they produce honey?
+* artificial honey bee replacement
+* used for pollination
+* not controlled by a central server
+*  self-replicating
+* used civilly to prevent environmental catastrophe
+* because honey bees have died out - and as we all know, no other insects pollinate, ever
+* open question: do they produce honey?
 
 ---
 
 ## ADIs - Second Use
 
-![two drones, I guess](https://upload.wikimedia.org/wikipedia/commons/2/2e/Predator_and_Hellfire.jpg)
+![two drones, I guess](https://upload.wikimedia.org/wikipedia/commons/2/2e/Predator_and_Hellfire.jpg) 
 
 <div class="caption">source: [wikimedia](https://commons.wikimedia.org/wiki/File:Predator_and_Hellfire.jpg)</div>
 
 Note:
+* funded by the government
+* have a backdoor for surveillance
+* government/secret service use them
 
-- funded by the government
-- have a backdoor for surveillance
-- government/secret service use them
-
-- massive privacy invasion
-- bees are basically invisible -> hard to protect against
-- data _is_ transmitted, we see examples of videofeeds and position data
+* massive privacy invasion
+* bees are basically invisible -> hard to protect against
+* data *is* transmitted, we see examples of videofeeds and position data
 
 ---
 
@@ -115,11 +106,11 @@ Note:
 ![Spoiler Alert!](https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi)
 
 Note:
-
-- basic problem of backdoors:
-- they can be used by third parties
+* basic problem of backdoors: 
+* they can be used by third parties
 
 ---
+
 
 ## ADIs - Backdoor
 
@@ -130,24 +121,23 @@ static with speech-bubbles:
 https://www.google.com/search?biw=1525&bih=735&tbm=isch&sa=1&ei=MTwFXKrRPIWWjgbO7In4DA&q=nein+doch+oh+gif+captions&oq=nein+doch+oh+gif+captions&gs_l=img.3...6042.7126..7281...0.0..0.152.1084.0j8......1....1..gws-wiz-img.jL5PXueaZfQ#imgrc=62Gl4KCFEgT9AM:
 -->
 
-Note:
-
-- they got hacked.
-- security-discussion later with other "improvements"
+Note: 
+* they got hacked.
+* security-discussion later with other "improvements"
 
 ---
+
 
 ## Introduction: the Plot
 
 ![](./screenshots/adi-in-petri-dish.PNG)
 
 Note:
-
-- honey bees have died out
-- they've been replaced by ADIs - because there's no other insect that could possibly pollinate plants
-- someone took over ADIs
-- and used them to kill people
-- controlled via unknown means
+* honey bees have died out
+* they've been replaced by ADIs - because there's no other insect that could possibly pollinate plants
+* someone took over ADIs
+* and used them to kill people
+* controlled via unknown means
 
 ---
 
@@ -159,16 +149,15 @@ Note:
 
 Note:
 (sabrina)
+* used by ADIs to find ~~victims~~ flowers
+* dual use: 
+  * helping you sort and find pictures
+  * used for surveillance
+* side-rant: face-recognition
+* side-rant: lack of researchers' responsibility
 
-- used by ADIs to find ~~victims~~ flowers
-- dual use:
-  - helping you sort and find pictures
-  - used for surveillance
-- side-rant: face-recognition
-- side-rant: lack of researchers' responsibility
-
-- facial recognition:
-  really not as good as people say it was. cf Berlin Südkreuz, with "success" rates of about 75 % (resulting in hundreds of false positives for ONE true positive)
+* facial recognition: 
+really not as good as people say it was. cf Berlin Südkreuz, with "success" rates of about 75 % (resulting in hundreds of false positives for ONE true positive)
 
 ---
 
@@ -177,14 +166,13 @@ Note:
 ![](./screenshots/bee-hive-many-bees.PNG)
 
 Note:
-
-- ADIs are self-reproducing devices
-- dual use:
-  - easily getting replacement parts
-  - ???
-- offensichtlich auch in militärischem Kontext nutzbar, weil was einen schraubenschlüssel printen kann, kann auch munition machen
-- ebenfalls dual-use, weil sowohl in civil als auch military contexts nutzbar
-- ADIs build hives, hives reproduce ADIs (from what resources, though?)
+* ADIs are self-reproducing devices
+* dual use:
+  * easily getting replacement parts
+  * ???
+* offensichtlich auch in militärischem Kontext nutzbar, weil was einen schraubenschlüssel printen kann, kann auch munition machen
+* ebenfalls dual-use, weil sowohl in civil als auch military contexts nutzbar
+* ADIs build hives, hives reproduce ADIs (from what resources, though?)
 
 ---
 
@@ -193,11 +181,10 @@ Note:
 ![](./screenshots/death-to-tusk.PNG)
 
 Note:
-
-- targets are selected via pseudo twitter
-- recognised via uploaded image and image recognition
-- "the game of consequences" video!
-- somehow, ADIs kill a person if their name & picture got shared under a hashtag on a twitter-like social media often enough
+* targets are selected via pseudo twitter
+* recognised via uploaded image and image recognition
+* "the game of consequences" video!
+* somehow, ADIs kill a person if their name & picture got shared under a hashtag on a twitter-like social media often enough
 
 ---
 
@@ -207,9 +194,9 @@ Note:
 
 Note:
 
-- not part of the papers, but relevant here
-- ask whether game of consequences is a good way to deal with cyber bullying
-- it is, basically, just trying to hold ppl responsible for the things they said/did online
+* not part of the papers, but relevant here
+* ask whether game of consequences is a good way to deal with cyber bullying
+* it is,  basically, just trying to hold ppl responsible for the things they said/did online
 
 ---
 
@@ -218,10 +205,9 @@ Note:
 ![](./screenshots/big-ass-database.PNG)
 
 Note:
-
-- in the episode, the database is basically used as big ass phone book, but it DOES have a big dual use potential -- reverse image lookup is obviously possible, proof of concept by blue
-- also something about surveillance here
-- most unrealistic part: current, good-quality pics of everyone. and that's pretty scary, innit?
+* in the episode, the database is basically used as big ass phone book, but it DOES have a big dual use potential -- reverse image lookup is obviously possible, proof of concept by blue
+* also something about surveillance here
+* most unrealistic part: current, good-quality pics of everyone. and that's pretty scary, innit?
 
 ---
 
@@ -232,11 +218,11 @@ static: ![bees cooperating to break down windows](https://thesnarkingdeadrecaps.
 
 ![bees cooperating to break down windows](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjg3ZSFxYTfAhVD2aQKHcf2CkQQjRx6BAgBEAU&url=https%3A%2F%2Fgingesbecray.com%2Fblack-mirror-s3e06-hated-in-the-nation-recap%2F&psig=AOvVaw3xbJhpCkbgnMVssB2BpnJK&ust=1543956695394920)
 
-Note:
 
-- bees will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
-- bees are pretty much unkaputtbar
-- discussion note: bees are only turned off when prime minister gets targeted -> some are more equal
+Note:
+* bees will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
+* bees are pretty much unkaputtbar
+* discussion note: bees are only turned off when prime minister gets targeted -> some are more equal
 
 ---
 
@@ -245,30 +231,26 @@ Note:
 ![](./screenshots/death-list.PNG)
 
 Note:
-
-- turns out, some guy does this because his girl friend got bullyied on social media and he wants to show that bullying is bad
-- actual "game of consequences" is triggered by bee-killswitch
-- victims are those that USED #deathTo
+* turns out, some guy does this because his girl friend got bullyied on social media and he wants to show that bullying is bad
+* actual "game of consequences" is triggered by bee-killswitch
+* victims are those that USED #deathTo
 
 ~ real life applications:
-
-- several countries groups _have_ kill lists
-- eg: the US, Syria, the NATO, Russia,... [16]
-- terrorists, "dangerous people", etc.
+* several countries groups *have* kill lists
+* eg: the US, Syria, the NATO, Russia,... [16]
+* terrorists, "dangerous people", etc.
 
 ---
 
 # Terror Tuesday
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Death_Note%2C_Book.svg)
-
 <div class="caption">Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Death_Note,_Book.svg)</div>
 
 Note:
-
-- terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
-- targeted assassinations executed by: all the above, france, the UK
-- quellen: [16], [17], [18]
+* terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
+* targeted assassinations executed by: all the above, france, the UK
+* quellen: [16], [17], [18]
 
 <!-- the drone-strike on family vid  - Nope, too graphic/depressing -->
 
@@ -284,10 +266,11 @@ Note:
 
 <div class="caption">source:  “Most US Drone Strikes in Pakistan Attack Houses.” The Bureau of Investigative Journalism. Accessed December 17, 2018. https://www.thebureauinvestigates.com/stories/2014-05-23/most-us-drone-strikes-in-pakistan-attack-houses. </div>
 
+  
 Note:
 
-- currently happening - see terror tuesday
-- close to episode, but smaller drones & "only" individuals targeted in episode
+* currently happening - see terror tuesday
+* close to episode, but smaller drones & "only" individuals targeted in episode
 
 ---
 
@@ -295,22 +278,21 @@ Note:
 
 <iframe width="560" height="315" src="http://drones.pitchinteractive.com/" frameborder="0" allowfullscreen></iframe>
 
-Note:
+Note: 
+* information on drone strikes in Pakistan since 2004
+* bar on top shows: number of killings in categories -- left to right: children, civilians, high profile, "other"
+* graphic below: same data as above, but for each drone strike 
 
-- information on drone strikes in Pakistan since 2004
-- bar on top shows: number of killings in categories -- left to right: children, civilians, high profile, "other"
-- graphic below: same data as above, but for each drone strike
-
----
+--- 
 
 # Recap - angesprochene Themen
 
-- Autonomous Drones
-- Image Recognition
-- 3D Printing
-- Surveillance
-- Cyber bullying
-- Drone killings
+* Autonomous Drones
+* Image Recognition
+* 3D Printing
+* Surveillance
+* Cyber bullying
+* Drone killings
 
 🐝🦜🌸🐝🐝🏃‍♀️🐝🐝🐝😱💀🐝🐝💻🐝🐝🐝🐝🐝🐝💀💀💀💀💀💀💀💀
 
@@ -321,13 +303,14 @@ Note:
 ![](https://d2si46jc38oa3k.cloudfront.net/system/images/links/l900/63/636881f8c75222f8.jpg)
 no info on (c): https://medium.com/s/story/how-to-fix-what-social-media-has-broken-cb0b2737128
 
+
+
 Note:
+* bees: can't really be made "hacking proof" - see discussion we've had
+* environmental conservation effort probably preferable
+* plus, there are other pollinating insects, we promise
 
-- bees: can't really be made "hacking proof" - see discussion we've had
-- environmental conservation effort probably preferable
-- plus, there are other pollinating insects, we promise
-
-- dual use: only with increased ethical understanding of computer scientists, which is a whole other can of worms
+* dual use: only with increased ethical understanding of computer scientists, which is a whole other can of worms
 
 other stuff
 
@@ -358,5 +341,7 @@ Do you think using the **ADIs for surveillance** is defensible? What about that 
 [16]: “Kill Lists | Clive Stafford Smith on State-Sponsored Assassination.” TheTLS. Accessed December 19, 2018. https://www.the-tls.co.uk/articles/public/state-sponsored-assassination/.
 [17]: Whitehead, John W. “Terror Tuesdays, Kill Lists and Drones: Has the President Become a Law Unto Himself?” Huffington Post (blog), June 20, 2012. https://www.huffingtonpost.com/john-w-whitehead/terror-tuesdays-kill-list_b_1606371.html.
 [18]: Cobain, Ian. “Obama’s Secret Kill List – the Disposition Matrix.” The Guardian, July 14, 2013, sec. US news. https://www.theguardian.com/world/2013/jul/14/obama-secret-kill-list-disposition-matrix.
+
+
 
 ---
