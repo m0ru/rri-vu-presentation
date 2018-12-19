@@ -123,7 +123,7 @@ Note:
 
 <!-- ADI-Backdoor  -->
 
-![Nein! Doch! Ohhh!](https://i.pinimg.com/originals/1d/f9/07/1df90734cdd17488be458d78a2e8caa6.gif)
+![Nein! Doch! Ohhh!](./pictures/nein-doch-oh.gif)
 
 <!--
 static with speech-bubbles:
