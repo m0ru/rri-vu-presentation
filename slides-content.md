@@ -14,7 +14,7 @@
 
 ![](./pictures/musical-bees.jpg)
 
-<div class="caption">Source: <a href="https://9gag.com/gag/a73MqYw">https://9gag.com/gag/a73MqYw</a> </div>
+<div class="caption">Photo: <a href="https://9gag.com/gag/a73MqYw">https://9gag.com/gag/a73MqYw</a> </div>
   
 Note:
 to quote dean martin: let me tell you 'bout the birds and the 🐝🐝 ...
@@ -93,7 +93,7 @@ Note:
 
 ![two drones, I guess](https://upload.wikimedia.org/wikipedia/commons/2/2e/Predator_and_Hellfire.jpg) 
 
-<div class="caption">source: [wikimedia](https://commons.wikimedia.org/wiki/File:Predator_and_Hellfire.jpg)</div>
+<div class="caption">Picture: [wikimedia](https://commons.wikimedia.org/wiki/File:Predator_and_Hellfire.jpg)</div>
 
 Note:
 * funded by the government
@@ -110,7 +110,7 @@ Note:
 
 ![Spoiler Alert!](./pictures/spoiler-alert.gif)
 
-<div class="caption">Source: <a href="https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi">https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi</a></div>
+<div class="caption">Picture: <a href="https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi">https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi</a></div>
 
 Note:
 * basic problem of backdoors: 
@@ -231,7 +231,7 @@ Note:
 
 ![bees cooperating to break down windows](./pictures/bees-on-window.gif)
 
-<div class="caption">Source: <a href="https://gingesbecray.com/black-mirror-s3e06-hated-in-the-nation-recap/">Ginges Be Cray</a></div>
+<div class="caption">Photo: <a href="https://gingesbecray.com/black-mirror-s3e06-hated-in-the-nation-recap/">Ginges Be Cray</a></div>
 
 Note:
 * 🐝🐝🐝 will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
@@ -260,7 +260,7 @@ real life comparison:
 # Terror Tuesday
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Death_Note%2C_Book.svg)
-<div class="caption">Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Death_Note,_Book.svg)</div>
+<div class="caption">Picture: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Death_Note,_Book.svg)</div>
 
 Note:
 * terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
@@ -289,7 +289,7 @@ Note:
 
 ![](https://assets2.thebureauinvestigates.com/uploads/_headerMedium/Ob328-Madrassa-aftermath-REUTERSSyed-Shah.jpg?mtime=20170206132907)
 
-<div class="caption">Source:  [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/stories/2014-05-23/most-us-drone-strikes-in-pakistan-attack-houses)</div>
+<div class="caption">Photo:  [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/stories/2014-05-23/most-us-drone-strikes-in-pakistan-attack-houses)</div>
 
 Note:
 
@@ -301,12 +301,16 @@ Note:
 
 # Drone Killings II
 
-<iframe width="560" height="315" src="http://drones.pitchinteractive.com/" frameborder="0" allowfullscreen></iframe>
+![](./pictures/out-of-sight.PNG)
 
-Note: 
+<div class="caption">
+Source: <a href="http://drones.pitchinteractive.com/">http://drones.pitchinteractive.com/</a>
+</div>
+
+Note:
 * information on drone strikes in Pakistan since 2004
 * bar on top shows: number of killings in categories -- left to right: children, civilians, high profile, "other"
-* graphic below: same data as above, but for each drone strike 
+* graphic below: same data as above, but for each drone strike
 
 --- 
 
@@ -326,10 +330,12 @@ Note:
 # Potential Fixes
 
 ![](https://d2si46jc38oa3k.cloudfront.net/system/images/links/l900/63/636881f8c75222f8.jpg)
-no info on (c): https://medium.com/s/story/how-to-fix-what-social-media-has-broken-cb0b2737128
 
-should be ok to use: medium's ToS allow only own pics or pics where the author holds all necessary rights
+<div class="caption">
+Photo: <a href="https://medium.com/s/story/how-to-fix-what-social-media-has-broken-cb0b2737128">Tobias Rose-Stockwell</a>
+</div>
 
+<!-- should be ok to use: medium's ToS allow only own pics or pics where the author holds all necessary rights -->
 
 Note:
 * 🐝🐝: can't really be made "hacking proof"
@@ -361,19 +367,23 @@ Do you think using the **ADIs for surveillance** is defensible? What about that 
 
 ---
 
-# Sources
+# References
 
-[09]: Burton, Saheli Datta, Christine Aicardi, Tara Mahfoud, and Nikolas Rose. “Relative Gains or Human Security?” Human Security, n.d., 34.
-[10]: Burton, Saheli Datta, Christine Aicardi, Tara Mahfoud, and Nikolas Rose. “Understanding Interstate Competitiveness and International Security in European Dual-Use Research.” In Biomimetic and Biohybrid Systems, edited by Vasiliki Vouloutsi, José Halloy, Anna Mura, Michael Mangan, Nathan Lepora, Tony J. Prescott, and Paul F.M.J. Verschure, 10928:129–33. Cham: Springer International Publishing, 2018. https://doi.org/10.1007/978-3-319-95972-6_14.
-[11]: “What Makes a Weapon One of Mass Destruction?-News-UK-TimesOnline,” March 11, 2007. https://web.archive.org/web/20070311090139/http://www.timesonline.co.uk/tol/news/uk/article1013136.ece.
-[12]: GmbH, news networld Internetservice. “Personenstandsregister: Daten von Geburt bis Tod zusammengeführt.” news.at, October 29, 2014. https://www.news.at/a/personenstandsregister-daten-zusammengefuehrt.
-[13]: “Zentrales Personenstandsregister (ZPR).” Accessed December 19, 2018. https://www.bmi.gv.at/414/start.aspx.
-[14]: “Personenstandsregister: Das Standesamt ist ein Serverraum - derStandard.at.” DER STANDARD. Accessed December 19, 2018. https://derstandard.at/2000007395181/Personenstandsregister-Das-Standesamt-ist-ein-Serverraum#.
-[15]: “Dual-Use Trade Controls - Trade - European Commission.” Accessed December 19, 2018. http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm.
-[16]: “Kill Lists | Clive Stafford Smith on State-Sponsored Assassination.” TheTLS. Accessed December 19, 2018. https://www.the-tls.co.uk/articles/public/state-sponsored-assassination/.
-[17]: Whitehead, John W. “Terror Tuesdays, Kill Lists and Drones: Has the President Become a Law Unto Himself?” Huffington Post (blog), June 20, 2012. https://www.huffingtonpost.com/john-w-whitehead/terror-tuesdays-kill-list_b_1606371.html.
-[18]: Cobain, Ian. “Obama’s Secret Kill List – the Disposition Matrix.” The Guardian, July 14, 2013, sec. US news. https://www.theguardian.com/world/2013/jul/14/obama-secret-kill-list-disposition-matrix.
+<div style="font-size: 1rem;">
 
+<ul>
 
+<li> Burton, Saheli Datta, Christine Aicardi, Tara Mahfoud, and Nikolas Rose. “Relative Gains or Human Security?” Human Security, n.d., 34.</li>
+<li> Burton, Saheli Datta, Christine Aicardi, Tara Mahfoud, and Nikolas Rose. “Understanding Interstate Competitiveness and International Security in European Dual-Use Research.” In Biomimetic and Biohybrid Systems, edited by Vasiliki Vouloutsi, José Halloy, Anna Mura, Michael Mangan, Nathan Lepora, Tony J. Prescott, and Paul F.M.J. Verschure, 10928:129–33. Cham: Springer International Publishing, 2018. https://doi.org/10.1007/978-3-319-95972-6_14.</li>
+<li> “What Makes a Weapon One of Mass Destruction?-News-UK-TimesOnline,” March 11, 2007. https://web.archive.org/web/20070311090139/http://www.timesonline.co.uk/tol/news/uk/article1013136.ece.</li>
+<li> GmbH, news networld Internetservice. “Personenstandsregister: Daten von Geburt bis Tod zusammengeführt.” news.at, October 29, 2014. https://www.news.at/a/personenstandsregister-daten-zusammengefuehrt.</li>
+<li> “Zentrales Personenstandsregister (ZPR).” Accessed December 19, 2018. https://www.bmi.gv.at/414/start.aspx.</li>
+<li> “Personenstandsregister: Das Standesamt ist ein Serverraum - derStandard.at.” DER STANDARD. Accessed December 19, 2018. https://derstandard.at/2000007395181/Personenstandsregister-Das-Standesamt-ist-ein-Serverraum#.</li>
+<li> “Dual-Use Trade Controls - Trade - European Commission.” Accessed December 19, 2018. http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm.</li>
+<li> “Kill Lists | Clive Stafford Smith on State-Sponsored Assassination.” TheTLS. Accessed December 19, 2018. https://www.the-tls.co.uk/articles/public/state-sponsored-assassination/.</li>
+<li> Whitehead, John W. “Terror Tuesdays, Kill Lists and Drones: Has the President Become a Law Unto Himself?” Huffington Post (blog), June 20, 2012. https://www.huffingtonpost.com/john-w-whitehead/terror-tuesdays-kill-list_b_1606371.html.</li>
+<li> Cobain, Ian. “Obama’s Secret Kill List – the Disposition Matrix.” The Guardian, July 14, 2013, sec. US news. https://www.theguardian.com/world/2013/jul/14/obama-secret-kill-list-disposition-matrix.</li>
 
----
+</ul>
+
+</div>
