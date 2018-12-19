@@ -334,8 +334,10 @@ Note:
 * environmental conservation effort probably preferable
 * plus, there are other pollinating insects, we promise
 
+* that big ass database: don't make one
+
 * dual use: can only be fixed with increased ethical understanding
-  * of computer scientists, which is a whole other can of worms
+  * which many engineers and computer scientists lack
 
 other stuff
 
