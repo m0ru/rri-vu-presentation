@@ -9,12 +9,12 @@
 
 **A Musical Prelude:**
 
+<iframe width="949" height="50" src="https://www.youtube.com/embed/aXH4701CEnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](./pictures/musical-bees.jpg)
 
-<div class="caption">source: <a href="https://9gag.com/gag/a73MqYw">https://9gag.com/gag/a73MqYw</a> </div>
+<div class="caption">Source: <a href="https://9gag.com/gag/a73MqYw">https://9gag.com/gag/a73MqYw</a> </div>
   
-<iframe width="949" height="534" src="https://www.youtube.com/embed/aXH4701CEnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Note:
 to quote dean martin: let me tell you 'bout the birds and the bees ...
 
