@@ -5,6 +5,7 @@
 - [x] bilder an passende stellen einfuegen
 - [ ] notes ausformulieren
 - [ ] s/b/🐝/
+- [ ] make sure all images are local
 -->
 
 **A Musical Prelude:**
@@ -150,7 +151,7 @@ Note:
 
 ## Image Recognition
 
-![](https://www.flickr.com/photos/gastev/15632628574)
+![](./pictures/face_recognition.jpg)
 
 <div class="caption">source: [flickr](https://www.flickr.com/photos/gastev/15632628574)</div>
 
