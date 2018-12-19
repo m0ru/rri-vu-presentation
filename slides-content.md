@@ -1,15 +1,25 @@
 <!-- 
 - [ ] aufteilen - wer sagt was?
-- [ ] TODOs durchgehen
+- [x] TODOs durchgehen
 - [x] folientext ausformulieren
 - [x] bilder an passende stellen einfuegen
 - [ ] notes ausformulieren
 - [ ] s/b/🐝/
 -->
 
-<!-- to quote dean martin: let me tell you 'bout the birds and the bees ...  https://www.youtube.com/watch?v=aXH4701CEnI -->
 
+**A Musical Prelude:**
 
+![](./pictures/musical-bees.jpg)
+
+<div class="caption">source: <a href="https://9gag.com/gag/a73MqYw">https://9gag.com/gag/a73MqYw</a> </div>
+  
+<iframe width="949" height="534" src="https://www.youtube.com/embed/aXH4701CEnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Note: 
+to quote dean martin: let me tell you 'bout the birds and the bees ...
+
+---
 
 # Hated In the Nation
 
@@ -43,7 +53,7 @@ screenshots:
 * cyber bullying: ![](./screenshots/jo-powers-comments.PNG)![](./screenshots/jo-power-death-treats.PNG)
 * deathTo-Tag: ![](./screenshots/death-to-tusk.PNG)
 * big-ass database: ![](./screenshots/big-ass-database.PNG)
-🐝🦜🌸🐝🐝🏃‍♀️🐝🐝🐝🐝🐝😱🐝🐝💀
+🐝🦜🌸🐝🐝🏃‍♀️🐝🐝🐝😱💀🐝🐝🐝🐝🐝🐝🐝🐝💀💀💀💀💀💀💀💀
 -->
 
 ---
@@ -161,7 +171,7 @@ Note:
 
 ## Image Recognition
 
-https://www.flickr.com/photos/gastev/15632628574 - CC attrib
+![](https://www.flickr.com/photos/gastev/15632628574)
 
 <div class="caption">source: [flickr](https://www.flickr.com/photos/gastev/15632628574)</div>
 
@@ -231,9 +241,10 @@ Note:
 
 # Back to the Plot
 
-TODO: screenshot here [] (bees cooperating to break down windows)
-static: ![](https://thesnarkingdeadrecaps.files.wordpress.com/2016/11/bm-s3-e6-bee-attack.jpg?w=700&resize=700%2C322)
-gif: ![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjg3ZSFxYTfAhVD2aQKHcf2CkQQjRx6BAgBEAU&url=https%3A%2F%2Fgingesbecray.com%2Fblack-mirror-s3e06-hated-in-the-nation-recap%2F&psig=AOvVaw3xbJhpCkbgnMVssB2BpnJK&ust=1543956695394920)
+<!--
+static: ![bees cooperating to break down windows](https://thesnarkingdeadrecaps.files.wordpress.com/2016/11/bm-s3-e6-bee-attack.jpg?w=700&resize=700%2C322) -->
+
+![bees cooperating to break down windows](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjg3ZSFxYTfAhVD2aQKHcf2CkQQjRx6BAgBEAU&url=https%3A%2F%2Fgingesbecray.com%2Fblack-mirror-s3e06-hated-in-the-nation-recap%2F&psig=AOvVaw3xbJhpCkbgnMVssB2BpnJK&ust=1543956695394920)
 
 
 Note:
@@ -261,7 +272,8 @@ Note:
 
 # Terror Tuesday
 
-TODO: death note image
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Death_Note%2C_Book.svg)
+<div class="caption">Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Death_Note,_Book.svg)</div>
 
 Note:
 * terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
@@ -310,6 +322,8 @@ Note:
 * Cyber bullying
 * Drone killings
 
+🐝🦜🌸🐝🐝🏃‍♀️🐝🐝🐝😱💀🐝🐝💻🐝🐝🐝🐝🐝🐝💀💀💀💀💀💀💀💀
+
 ---
 
 # Potential Fixes
@@ -334,7 +348,8 @@ other stuff
 
 What do you think about the **"game of consequences"**?
 
-What is scarier: autonomous killer drones existing or being controlled by majority vote? <!-- not sure about this one; sthg related to how present-time killer drones are controlled -->
+<!--
+What is scarier: autonomous killer drones existing or being controlled by majority vote? // not sure about this one; sthg related to how present-time killer drones are controlled -->
 
 Where do you think the **biggest fuck-up** leading to this scenario happened?
 
