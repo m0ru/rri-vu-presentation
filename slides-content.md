@@ -22,38 +22,15 @@ to quote dean martin: let me tell you 'bout the birds and the bees ...
 
 # Hated In the Nation
 
-Content Note:
-remote killing, dehumanization. also, some gifs to lighten up the mood every now and then
+**Content Note:** remote killing, dehumanization. also, some gifs to lighten up the mood every now and then.
 
 Note:
+
 (sabrina)
-start presentation with information that the episode deals with Dual Use and Back Doors, with sprinkles of image/facial recognition, 3d printing/federating and cyber bullying
+
+start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying**
 
 also, we want to make the presentation less linear and will inlcude information on the plot throughout the presentation where/when it fits
-
-<!--
-screenshots:
-
-* ADIs:
-* hives: ![](./screenshots/bee-hive.PNG) ![](./screenshots/bee-hive-many-bees.PNG)
-* bee map:
-  * ![](./screenshots/bee-hive-map-yellow.PNG) or
-  * ![](./screenshots/bee-hive-map-white.PNG) or
-  * ![](./screenshots/bee-hive-map-red.PNG) or
-  * ![](./screenshots/bee-hive-map-around-building.PNG) or
-  * ![](./screenshots/bee-hive-map-closup.PNG)
-
-* organised bee-swarm:
-  * at bee-central: ![](https://gingesbecray.com/wp-content/uploads/2018/01/29_46.gif)
-  * static of swarm attacking: ![](https://www.themarysue.com/wp-content/uploads/2017/02/black-mirror-bees.png)
-  * ![](./screenshots/bees-swarming-through-door.PNG)
-
-* death list: ![](./screenshots/death-list.PNG)
-* cyber bullying: ![](./screenshots/jo-powers-comments.PNG)![](./screenshots/jo-power-death-treats.PNG)
-* deathTo-Tag: ![](./screenshots/death-to-tusk.PNG)
-* big-ass database: ![](./screenshots/big-ass-database.PNG)
-🐝🦜🌸🐝🐝🏃‍♀️🐝🐝🐝😱💀🐝🐝🐝🐝🐝🐝🐝🐝💀💀💀💀💀💀💀💀
--->
 
 ---
 
@@ -65,6 +42,7 @@ screenshots:
 <cite>European Commission, [15]</cite>
 
 Note:
+
 (sabrina)
 
 - what is civil, what is military? where/what is police work? if police is civil, then there are lots of technologies with harmful intents.
