@@ -53,8 +53,8 @@ Note:
 <blockquote> 
   for military or other purposes with non-peaceful intents (…) like artificial intelligence and genetics which can be easily weaponised
 </blockquote>
-  <cite>Datta Burton et al. [10], p. 5</cite>
-  
+<cite>Datta Burton et al. [10], p. 5</cite>
+
 ---
 
 # Dual Use III
@@ -62,7 +62,7 @@ Note:
 <blockquote> 
  does your research affect current standards in military ethics? Does your research involve the development of technologies or the creation of information that could have severe negative impacts on human rights standards (e.g. privacy, stigmatization, discrimination), if misapplied?
 </blockquote>
-  <cite>Datta Burton et al. [10], p. 23</cite>
+<cite>Datta Burton et al. [10], p. 23</cite>
 
 Note:
 (sabrina)
