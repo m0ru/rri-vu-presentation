@@ -1,10 +1,15 @@
 <!-- 
 - [ ] aufteilen - wer sagt was?
 - [ ] TODOs durchgehen
-- [ ] folientext ausformulieren
-- [ ] bilder an passende stellen einfuegen
+- [x] folientext ausformulieren
+- [x] bilder an passende stellen einfuegen
 - [ ] notes ausformulieren
+- [ ] s/b/🐝/
 -->
+
+<!-- to quote dean martin: let me tell you 'bout the birds and the bees ...  https://www.youtube.com/watch?v=aXH4701CEnI -->
+
+
 
 # Hated In the Nation
 
@@ -12,7 +17,7 @@ Content Note:
 remote killing, dehumanization. also, some gifs to lighten up the mood every now and then
 
 Note:
-some notes here
+(sabrina)
 start presentation with information that the episode deals with Dual Use and Back Doors, with sprinkles of image/facial recognition, 3d printing/federating and cyber bullying
 
 also, we want to make the presentation less linear and will inlcude information on the plot throughout the presentation where/when it fits
@@ -20,22 +25,25 @@ also, we want to make the presentation less linear and will inlcude information 
 <!--
 screenshots:
 
-* [x] an ADI
-* [x] bee-central: one of the hives ![](./screenshots/bee-hive.PNG) ![](./screenshots/bee-hive-many-bees.PNG)
-* [x] bee-central: map with all the bees ![](./screenshots/bee-hive-map-yellow.PNG) or ![](./screenshots/bee-hive-map-white.PNG) or ![](./screenshots/bee-hive-map-red.PNG) or ![](./screenshots/bee-hive-map-around-building.PNG) or ![](./screenshots/bee-hive-map-closup.PNG)
-* [ ] facial recognition, falls irgendwo sichtbar
-  * not from the episode and different style, but facial recognition: ![](https://cdn.pixabay.com/photo/2018/03/23/08/09/flat-3252983_960_720.png)
-  * also not from episode, but at least photo: ![](https://c1.staticflickr.com/9/8221/8403492144_2fe6b32834_z.jpg)
-* [x] organised bee-swarm
+* ADIs:
+* hives: ![](./screenshots/bee-hive.PNG) ![](./screenshots/bee-hive-many-bees.PNG)
+* bee map: 
+  * ![](./screenshots/bee-hive-map-yellow.PNG) or 
+  * ![](./screenshots/bee-hive-map-white.PNG) or 
+  * ![](./screenshots/bee-hive-map-red.PNG) or 
+  * ![](./screenshots/bee-hive-map-around-building.PNG) or 
+  * ![](./screenshots/bee-hive-map-closup.PNG)
+
+* organised bee-swarm:
   * at bee-central: ![](https://gingesbecray.com/wp-content/uploads/2018/01/29_46.gif)
   * static of swarm attacking: ![](https://www.themarysue.com/wp-content/uploads/2017/02/black-mirror-bees.png)
   * ![](./screenshots/bees-swarming-through-door.PNG)
-* [x] death list (bee-central, letzter besuch) ![](./screenshots/death-list.PNG)
-* [x] cyber bullying-example (entweder am anfang bei jo powers oder spaeter eine der suchen nach dem #deathTo tag) - mit #deathTo tag ![](./screenshots/jo-powers-comments.PNG)![](./screenshots/jo-power-death-treats.PNG)
-  * more deatTo: ![](./screenshots/death-to-tusk.PNG)
-* [x] bild von der big-ass database
-  * ![](./screenshots/big-ass-database.PNG)
 
+* death list: ![](./screenshots/death-list.PNG)
+* cyber bullying: ![](./screenshots/jo-powers-comments.PNG)![](./screenshots/jo-power-death-treats.PNG)
+* deathTo-Tag: ![](./screenshots/death-to-tusk.PNG)
+* big-ass database: ![](./screenshots/big-ass-database.PNG)
+🐝🦜🌸🐝🐝🏃‍♀️🐝🐝🐝🐝🐝😱🐝🐝💀
 -->
 
 ---
@@ -48,6 +56,7 @@ screenshots:
 <cite>European Commission, [15]</cite>
 
 Note:
+(sabrina)
 * what is civil, what is military? where/what is police work? if police is civil, then there are lots of technologies with harmful intents.
 * what constitutes a  weapons of mass destruction (WMD) -- are the ADIs WMDs? [11]
 
@@ -70,6 +79,7 @@ Note:
   <cite>Datta Burton et al. [10], p. 23</cite>
 
 Note:
+(sabrina)
 * this is the 2014 version of the EU DU checklist 
 * ethics checklist on DU is a requirement only for researchers who want their project to be funded by the EU?
 * it's all about the trade-offs -- economy vs. personal security, surveillance, privacy, human rights, ...
@@ -94,7 +104,7 @@ Note:
 
 ## ADIs - Second Use
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2e/Predator_and_Hellfire.jpg) 
+![two drones, I guess](https://upload.wikimedia.org/wikipedia/commons/2/2e/Predator_and_Hellfire.jpg) 
 
 <div class="caption">source: [wikimedia](https://commons.wikimedia.org/wiki/File:Predator_and_Hellfire.jpg)</div>
 
@@ -131,37 +141,38 @@ https://www.google.com/search?biw=1525&bih=735&tbm=isch&sa=1&ei=MTwFXKrRPIWWjgbO
 
 Note: 
 * they got hacked.
-* security-diskussion entweder hier oder später mit anderen "improvements"
+* security-discussion later with other "improvements"
 
 ---
 
 
-## Introduction: the plot
+## Introduction: the Plot
 
-TODO: picture?
+![](./screenshots/adi-in-petri-dish.PNG)
 
 Note:
-* someone took over ADIs
-* and used them to kill people
-* controlled via unknown means 
-* (spoiler: they were hacked)
 * honey bees have died out
 * they've been replaced by ADIs - because there's no other insect that could possibly pollinate plants
+* someone took over ADIs
+* and used them to kill people
+* controlled via unknown means
 
 ---
 
 ## Image Recognition
 
+https://www.flickr.com/photos/gastev/15632628574 - CC attrib
 
+<div class="caption">source: [flickr](https://www.flickr.com/photos/gastev/15632628574)</div>
 
 Note:
-* used by ADIs to find victims
+(sabrina)
+* used by ADIs to find ~~victims~~ flowers
 * dual use: 
   * helping you sort and find pictures
   * used for surveillance
-* anderes "tolles" dual-use example
-* side-rant über face-recognition
-* side-rant über mangelnde responsibility von researchern
+* side-rant: face-recognition
+* side-rant: lack of researchers' responsibility
 
 * facial recognition: 
 really not as good as people say it was. cf Berlin Südkreuz, with "success" rates of about 75 % (resulting in hundreds of false positives for ONE true positive)
@@ -170,7 +181,7 @@ really not as good as people say it was. cf Berlin Südkreuz, with "success" rat
 
 ## 3D Printing
 
-
+![](./screenshots/bee-hive-many-bees.PNG)
 
 Note:
 * ADIs are self-reproducing devices
@@ -183,51 +194,42 @@ Note:
 
 ---
 
-# plot - target selection
+# The Plot: Target Selection
 
-
+![](./screenshots/death-to-tusk.PNG)
 
 Note:
 * targets are selected via pseudo twitter
 * recognised via uploaded image and image recognition
-* "the game of consequences"
+* "the game of consequences" video!
 * somehow, ADIs kill a person if their name & picture got shared under a hashtag on a twitter-like social media often enough
 
 ---
 
-# Exkurs: Cyber Bullying
+# Excursus: Cyber Bullying
 
-TODO: screenshot here [] (jo powers' twitter stream)
+![](./screenshots/jo-powers-comments.PNG)
 
 Note:
 
-not part of the papers, but relevant here
-
-ask whether game of consequences is a good way to deal with cyber bullying
+* not part of the papers, but relevant here
+* ask whether game of consequences is a good way to deal with cyber bullying
+* it is,  basically, just trying to hold ppl responsible for the things they said/did online
 
 ---
 
-# that big-ass database
+# That Big-Ass Database
 
-TODO: text
+![](./screenshots/big-ass-database.PNG)
 
 Note:
-intro. spielt nur als großes telefonbuch eine rolle, hat aber auch großes dual use potential -- reverse image lookup offensichtlich möglich!
-
-also something about surveillance here
-
-most unrealistic part: current, good-quality pics of everyone
+* in the episode, the database is basically used as big ass phone book, but it DOES have a big dual use potential -- reverse image lookup is obviously possible, proof of concept by blue
+* also something about surveillance here
+* most unrealistic part: current, good-quality pics of everyone. and that's pretty scary, innit?
 
 ---
 
-# Back to: the Plot
-
-wir lernen: ADIs haben ein hive mind und koennen kooperieren
-
-
-next victim found via pseudo twitter
-
-bees can cooperate
+# Back to the Plot
 
 TODO: screenshot here [] (bees cooperating to break down windows)
 static: ![](https://thesnarkingdeadrecaps.files.wordpress.com/2016/11/bm-s3-e6-bee-attack.jpg?w=700&resize=700%2C322)
@@ -235,21 +237,22 @@ gif: ![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=r
 
 
 Note:
-* bees will cooperate
+* bees will cooperate -- who would've thunk. else, they'd probably all target the same tree/flower time and again?
 * bees are pretty much unkaputtbar
 * discussion note: bees are only turned off when prime minister gets targeted -> some are more equal
 
 ---
 
-# Kill List
+# Kill Lists
 
 ![](./screenshots/death-list.PNG)
 
 Note:
 * turns out, some guy does this because his girl friend got bullyied on social media and he wants to show that bullying is bad
 * actual "game of consequences" is triggered by bee-killswitch
-* victims are those that used #deathTo
+* victims are those that USED #deathTo
 
+~ real life applications:
 * several countries groups *have* kill lists
 * eg: the US, Syria, the NATO, Russia,... [16]
 * terrorists, "dangerous people", etc.
@@ -262,7 +265,7 @@ TODO: death note image
 
 Note:
 * terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
-* targeted assassinations from: all the above, frankreich, the UK
+* targeted assassinations executed by: all the above, france, the UK
 * quellen: [16], [17], [18]
 
 <!-- the drone-strike on family vid  - Nope, too graphic/depressing -->
@@ -283,7 +286,7 @@ Note:
 Note:
 
 * currently happening - see terror tuesday
-* close to episode, but smaller drones in episode
+* close to episode, but smaller drones & "only" individuals targeted in episode
 
 ---
 
@@ -311,14 +314,17 @@ Note:
 
 # Potential Fixes
 
-TODO: some GIF, because I can't think of useful text here
+![](https://d2si46jc38oa3k.cloudfront.net/system/images/links/l900/63/636881f8c75222f8.jpg)
+no info on (c): https://medium.com/s/story/how-to-fix-what-social-media-has-broken-cb0b2737128
+
+
 
 Note:
-bees: can't really be made "hacking proof" - see discussion we've had
-environmental conservation effort probably preferable
-plus, there are other pollinating insects, we promise
+* bees: can't really be made "hacking proof" - see discussion we've had
+* environmental conservation effort probably preferable
+* plus, there are other pollinating insects, we promise
 
-dual use: only with increased ethical understanding of computer scientists, which is a whole other can of worms
+* dual use: only with increased ethical understanding of computer scientists, which is a whole other can of worms
 
 other stuff
 
@@ -338,22 +344,17 @@ Do you think using the **ADIs for surveillance** is defensible? What about that 
 
 # Sources
 
-<!-- TODO chicago-style me -->
-
-[09]: Datta Burton et al. 2018 = report  
-[10]: Datta Burton et al. 2018a = presentation
-
-[11]:  https://web.archive.org/web/20070311090139/http://www.timesonline.co.uk/tol/news/uk/article1013136.ece
-[12]: https://www.news.at/a/personenstandsregister-daten-zusammengefuehrt
-[13]: https://www.bmi.gv.at/414/start.aspx
-[14]: https://derstandard.at/2000007395181/Personenstandsregister-Das-Standesamt-ist-ein-Serverraum
-[15]: http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm
-[16]: https://www.the-tls.co.uk/articles/public/state-sponsored-assassination/
-[17]: https://www.huffingtonpost.com/john-w-whitehead/terror-tuesdays-kill-list_b_1606371.html
-[18]: https://www.theguardian.com/world/2013/jul/14/obama-secret-kill-list-disposition-matrix
+[09]: Burton, Saheli Datta, Christine Aicardi, Tara Mahfoud, and Nikolas Rose. “Relative Gains or Human Security?” Human Security, n.d., 34.
+[10]: Burton, Saheli Datta, Christine Aicardi, Tara Mahfoud, and Nikolas Rose. “Understanding Interstate Competitiveness and International Security in European Dual-Use Research.” In Biomimetic and Biohybrid Systems, edited by Vasiliki Vouloutsi, José Halloy, Anna Mura, Michael Mangan, Nathan Lepora, Tony J. Prescott, and Paul F.M.J. Verschure, 10928:129–33. Cham: Springer International Publishing, 2018. https://doi.org/10.1007/978-3-319-95972-6_14.
+[11]: “What Makes a Weapon One of Mass Destruction?-News-UK-TimesOnline,” March 11, 2007. https://web.archive.org/web/20070311090139/http://www.timesonline.co.uk/tol/news/uk/article1013136.ece.
+[12]: GmbH, news networld Internetservice. “Personenstandsregister: Daten von Geburt bis Tod zusammengeführt.” news.at, October 29, 2014. https://www.news.at/a/personenstandsregister-daten-zusammengefuehrt.
+[13]: “Zentrales Personenstandsregister (ZPR).” Accessed December 19, 2018. https://www.bmi.gv.at/414/start.aspx.
+[14]: “Personenstandsregister: Das Standesamt ist ein Serverraum - derStandard.at.” DER STANDARD. Accessed December 19, 2018. https://derstandard.at/2000007395181/Personenstandsregister-Das-Standesamt-ist-ein-Serverraum#.
+[15]: “Dual-Use Trade Controls - Trade - European Commission.” Accessed December 19, 2018. http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm.
+[16]: “Kill Lists | Clive Stafford Smith on State-Sponsored Assassination.” TheTLS. Accessed December 19, 2018. https://www.the-tls.co.uk/articles/public/state-sponsored-assassination/.
+[17]: Whitehead, John W. “Terror Tuesdays, Kill Lists and Drones: Has the President Become a Law Unto Himself?” Huffington Post (blog), June 20, 2012. https://www.huffingtonpost.com/john-w-whitehead/terror-tuesdays-kill-list_b_1606371.html.
+[18]: Cobain, Ian. “Obama’s Secret Kill List – the Disposition Matrix.” The Guardian, July 14, 2013, sec. US news. https://www.theguardian.com/world/2013/jul/14/obama-secret-kill-list-disposition-matrix.
 
 
 
 ---
-
-
