@@ -22,11 +22,13 @@ to quote dean martin: let me tell you 'bout the birds and the bees ...
 
 # Hated In the Nation
 
-**Content Note:** remote killing, dehumanization. also, some gifs to lighten up the mood every now and then.
+**Content Note**: remote killing, dehumanization. also, some gifs to lighten up the mood every now and then.
 
 Note:
 
-(sabrina) // start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying** // also, we want to make the presentation less linear and will inlcude information on the plot throughout the presentation where/when it fits
+(sabrina)
+* start presentation with information that the episode deals with **Dual Use** and **Back Doors**, with sprinkles of **image/facial recognition**, **3d printing/federating** and **cyber bullying**
+* also, we want to make the presentation less linear and will inlcude information on the **plot throughout** the presentation where/when it fits
 
 ---
 
