@@ -4,8 +4,9 @@
 - [x] folientext ausformulieren
 - [x] bilder an passende stellen einfuegen
 - [x] notes ausformulieren
-- [ ] s/b/🐝/
-- [ ] make sure all images are local
+- [x] s/b/🐝/
+- [x] make sure all images are local
+- [ ] auto-format everything.
 -->
 
 **A Musical Prelude:**
