@@ -224,7 +224,9 @@ Note:
 <!--
 static: ![bees cooperating to break down windows](https://thesnarkingdeadrecaps.files.wordpress.com/2016/11/bm-s3-e6-bee-attack.jpg?w=700&resize=700%2C322) -->
 
-![bees cooperating to break down windows](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjg3ZSFxYTfAhVD2aQKHcf2CkQQjRx6BAgBEAU&url=https%3A%2F%2Fgingesbecray.com%2Fblack-mirror-s3e06-hated-in-the-nation-recap%2F&psig=AOvVaw3xbJhpCkbgnMVssB2BpnJK&ust=1543956695394920)
+![bees cooperating to break down windows](./pictures/bees-on-window.gif)
+
+<div class="caption">Source: <a href="https://gingesbecray.com/black-mirror-s3e06-hated-in-the-nation-recap/">Ginges Be Cray<a></div>
 
 
 Note:
