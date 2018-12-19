@@ -277,11 +277,20 @@ Note:
 
 <div class="caption">Photo: [Stephen Melkisethian](https://www.flickr.com/photos/stephenmelkisethian/15440228802/in/photolist-pwpd6q-o2xXcV-nhy3vH-36BKyv-bYcJ6s-66E8fu-bXvxgm-hs9gHM-fmBB1X-iLvBb7-nkTfWJ-dHkxbE-3jAjTF-kGJLiY-a1gXcN-kjTPNB-euGaH9-g3GVCn-hpDP1Z-puotz9-e2fUQf-dkLpYZ-qMUsc4-DhciEQ-tVgwTv-8C7wnY-niNBDQ-omi8xg-4Ajswp-qk6NXE-dp2Qz9-f81YTF-rAHRTd-rmSK2J-nXgmr3-7pcaik-oageb3-7pg2Sb-eiA5LB-7ByiT3-qhDigK-7J6MzM-nVEe35-mhxdbk-qokmec-bbHupc-7JaJ21-dJp7Q3-p8KpeC-kMJGxx) / Flickr Creative Commons</div>
 
+Note:
+
+* currently happening - see terror tuesday
+* parallels can be seen between actual drone killings and that episode
+* bees are basically smaller drones & "only" targetted individuals get killed
+
+---
+
+# Drone Killings
+
 ![](https://assets2.thebureauinvestigates.com/uploads/_headerMedium/Ob328-Madrassa-aftermath-REUTERSSyed-Shah.jpg?mtime=20170206132907)
 
-<div class="caption">source:  “Most US Drone Strikes in Pakistan Attack Houses.” The Bureau of Investigative Journalism. Accessed December 17, 2018. https://www.thebureauinvestigates.com/stories/2014-05-23/most-us-drone-strikes-in-pakistan-attack-houses. </div>
+<div class="caption">Source:  [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/stories/2014-05-23/most-us-drone-strikes-in-pakistan-attack-houses)</div>
 
-  
 Note:
 
 * currently happening - see terror tuesday
