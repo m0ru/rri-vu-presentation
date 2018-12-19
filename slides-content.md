@@ -8,9 +8,15 @@
 
 # Hated In the Nation
 
+Content Note: 
+remote killing, dehumanization. also, some gifs to lighten up the mood every now and then
+
 Note:
 some notes here
-start presentation with information that the episode deals with Dual Use 
+start presentation with information that the episode deals with Dual Use and Back Doors, with sprinkles of image/facial recognition, 3d printing/federating and cyber bullying
+
+also, we want to make the presentation less linear and will inlcude information on the plot throughout the presentation where/when it fits
+
 <!--
 screenshots:
 
@@ -52,7 +58,7 @@ Note:
 <blockquote> 
   for military or other purposes with non-peaceful intents (…) like artificial intelligence and genetics which can be easily weaponised
 </blockquote>
-  <cite>Datta Burton et al. 2018a, p. 5</cite>
+  <cite>Datta Burton et al. [10], p. 5</cite>
   
 ---
 
@@ -61,9 +67,10 @@ Note:
 <blockquote> 
  does your research affect current standards in military ethics? Does your research involve the development of technologies or the creation of information that could have severe negative impacts on human rights standards (e.g. privacy, stigmatization, discrimination), if misapplied?
 </blockquote>
-  <cite>Datta Burton et al. 2018a, p. 23: 2014 version of checklist</cite>
+  <cite>Datta Burton et al. [10], p. 23</cite>
 
 Note:
+* this is the 2014 version of the EU DU checklist 
 * ethics checklist on DU is a requirement only for researchers who want their project to be funded by the EU?
 * it's all about the trade-offs -- economy vs. personal security, surveillance, privacy, human rights, ...
 * see also discussion about China having an advantage because they don't care about ethics "as much as Europe does" (which IMO is not much to begin with)
@@ -81,34 +88,39 @@ Note:
 *  self-replicating
 * used civilly to prevent environmental catastrophe
 * because honey bees have died out - and as we all know, no other insects pollinate, ever
-* open question: do they produce honey? - img opportunity
+* open question: do they produce honey?
 
 ---
 
-## ADIs - Second use
+## ADIs - Second Use
 
-funded by the government
-  
-have a backdoor for surveillance
-  
-government/secret service use them
+![](https://upload.wikimedia.org/wikipedia/commons/2/2e/Predator_and_Hellfire.jpg) 
+
+<div class="caption">source: [wikimedia](https://commons.wikimedia.org/wiki/File:Predator_and_Hellfire.jpg)</div>
 
 Note:
+* funded by the government
+* have a backdoor for surveillance
+* government/secret service use them
+
 * massive privacy invasion
-* fast unmöglich, sich davor zu schützen, weil bees auch basically invisible sind
-* unbekannt, welche und wie gute sensoren da sind
-* klar, dass daten übertragen werden, z.B. videofeed und für positionsdaten (screenshot aus der folge)
-
-* surveillance
-ADIs have lots of sensors. government supposedly only backed the project provided they receive a back door so they could use the sensor data.
-
-basic problem of backdoors: 
-
-they can be used by third parties
+* bees are basically invisible -> hard to protect against
+* data *is* transmitted, we see examples of videofeeds and position data
 
 ---
 
-## ADIs
+## Spoiler Alert!
+
+![Spoiler Alert!](https://giphy.com/gifs/italian-horror-hfzhxAYEAnihi)
+
+Note:
+* basic problem of backdoors: 
+* they can be used by third parties
+
+---
+
+
+## ADIs - Backdoor
 
 ![Nein! Doch! Ohhh!](https://i.pinimg.com/originals/1d/f9/07/1df90734cdd17488be458d78a2e8caa6.gif)
 
@@ -118,73 +130,67 @@ https://www.google.com/search?biw=1525&bih=735&tbm=isch&sa=1&ei=MTwFXKrRPIWWjgbO
 -->
 
 Note: 
+* they got hacked.
 * security-diskussion entweder hier oder später mit anderen "improvements"
 
 ---
 
+
 ## Introduction: the plot
 
-someone took over ADIs
-
-and used them to kill people
-
-controlled via unknown means 
-(spoiler: they were hacked)
+TODO: picture?
 
 Note:
+* someone took over ADIs
+* and used them to kill people
+* controlled via unknown means 
+* (spoiler: they were hacked)
 * honey bees have died out
-* they've been replaced by ADIs (autonomous drone insects)
+* they've been replaced by ADIs - because there's no other insect that could possibly pollinate plants
 
 ---
 
 ## Image Recognition
 
-used by ADIs to find victims
 
-dual use: 
-
-helping you sort and find pictures
-
-used for surveillance
 
 Note:
-anderes "tolles" dual-use example
-side-rant über face-recognition
-side-rant über mangelnde responsibility von researchern
+* used by ADIs to find victims
+* dual use: 
+  * helping you sort and find pictures
+  * used for surveillance
+* anderes "tolles" dual-use example
+* side-rant über face-recognition
+* side-rant über mangelnde responsibility von researchern
 
-* facial recognition
+* facial recognition: 
 really not as good as people say it was. cf Berlin Südkreuz, with "success" rates of about 75 % (resulting in hundreds of false positives for ONE true positive)
 
 ---
 
 ## 3D Printing
 
-ADIs are self-reproducing devices
 
-dual use:
-
-easily getting replacement parts
-
-???
 
 Note:
-offensichtlich auch in militärischem Kontext nutzbar, weil was einen schraubenschlüssel printen kann, kann auch munition machen
-ebenfalls dual-use, weil sowohl in civil als auch military contexts nutzbar
-
-* 3D printing
-ADIs build hives, hives reproduce ADIs (from what resources, though?)
+* ADIs are self-reproducing devices
+* dual use:
+  * easily getting replacement parts
+  * ???
+* offensichtlich auch in militärischem Kontext nutzbar, weil was einen schraubenschlüssel printen kann, kann auch munition machen
+* ebenfalls dual-use, weil sowohl in civil als auch military contexts nutzbar
+* ADIs build hives, hives reproduce ADIs (from what resources, though?)
 
 ---
 
 # plot - target selection
 
-targets are selected via pseudo twitter
 
-recognised via uploaded image and image recognition
-
-"the game of consequences"
 
 Note:
+* targets are selected via pseudo twitter
+* recognised via uploaded image and image recognition
+* "the game of consequences"
 * somehow, ADIs kill a person if their name & picture got shared under a hashtag on a twitter-like social media often enough
 
 ---
@@ -194,6 +200,7 @@ Note:
 TODO: screenshot here [] (jo powers' twitter stream)
 
 Note:
+
 not part of the papers, but relevant here
 
 ask whether game of consequences is a good way to deal with cyber bullying
@@ -213,11 +220,10 @@ most unrealistic part: current, good-quality pics of everyone
 
 ---
 
-# Back to: the plot
+# Back to: the Plot
 
 wir lernen: ADIs haben ein hive mind und koennen kooperieren
 
-big twist: turns out, some guy does this because his girl friend got bullyied on social media and he wants to show people that bullying is bad
 
 next victim found via pseudo twitter
 
@@ -231,20 +237,22 @@ gif: ![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=r
 Note:
 * bees will cooperate
 * bees are pretty much unkaputtbar
-* some are more equal - abschalten wird erst diskutiert
+* discussion note: bees are only turned off when prime minister gets targeted -> some are more equal
 
 ---
 
-# Kill switch
+# Kill List
 
-TODO: screenshot here [] (list of people who used #deathTo)
+![](./screenshots/death-list.PNG)
 
 Note:
-plot twist: game of consequences
-erst aktiviert wenn bee-killswitch genutzt wird
-actual victims sind menschen, die das Hashtag verwendet haben
+* turns out, some guy does this because his girl friend got bullyied on social media and he wants to show that bullying is bad
+* actual "game of consequences" is triggered by bee-killswitch
+* victims are those that used #deathTo
 
-* turns out, some guy does this because his girl friend got bullyied on social media and he wants to show people that bullying is bad
+* several countries groups *have* kill lists
+* eg: the US, Syria, the NATO, Russia,... [16]
+* terrorists, "dangerous people", etc.
 
 ---
 
@@ -252,25 +260,45 @@ actual victims sind menschen, die das Hashtag verwendet haben
 
 TODO: death note image
 
-TODO: some notes about Terror Tuesday
+Note:
+* terror tuesday: weekly time in the POTUS' schedule for approving targeted assassinations
+* targeted assassinations from: all the above, frankreich, the UK
+* quellen: [16], [17], [18]
+
+<!-- the drone-strike on family vid  - Nope, too graphic/depressing -->
 
 ---
 
-# Drone killings
+# Drone Killings
 
-currently happening
+![](https://c1.staticflickr.com/3/2944/15440228802_2d44566cef_b.jpg)
 
-close to episode, just smaller drones
+<div class="caption">Photo: [Stephen Melkisethian](https://www.flickr.com/photos/stephenmelkisethian/15440228802/in/photolist-pwpd6q-o2xXcV-nhy3vH-36BKyv-bYcJ6s-66E8fu-bXvxgm-hs9gHM-fmBB1X-iLvBb7-nkTfWJ-dHkxbE-3jAjTF-kGJLiY-a1gXcN-kjTPNB-euGaH9-g3GVCn-hpDP1Z-puotz9-e2fUQf-dkLpYZ-qMUsc4-DhciEQ-tVgwTv-8C7wnY-niNBDQ-omi8xg-4Ajswp-qk6NXE-dp2Qz9-f81YTF-rAHRTd-rmSK2J-nXgmr3-7pcaik-oageb3-7pg2Sb-eiA5LB-7ByiT3-qhDigK-7J6MzM-nVEe35-mhxdbk-qokmec-bbHupc-7JaJ21-dJp7Q3-p8KpeC-kMJGxx) / Flickr Creative Commons</div>
 
-<!-- 
-terror-tuesday
-death-lists
-discussion of how that list is governed
--->
+![](https://assets2.thebureauinvestigates.com/uploads/_headerMedium/Ob328-Madrassa-aftermath-REUTERSSyed-Shah.jpg?mtime=20170206132907)
+
+<div class="caption">source:  “Most US Drone Strikes in Pakistan Attack Houses.” The Bureau of Investigative Journalism. Accessed December 17, 2018. https://www.thebureauinvestigates.com/stories/2014-05-23/most-us-drone-strikes-in-pakistan-attack-houses. </div>
+
+  
+Note:
+
+* currently happening - see terror tuesday
+* close to episode, but smaller drones in episode
 
 ---
 
-# Recap - angesprochene Technologien
+# Drone Killings II
+
+<iframe width="560" height="315" src="http://drones.pitchinteractive.com/" frameborder="0" allowfullscreen></iframe>
+
+Note: 
+* information on drone strikes in Pakistan since 2004
+* bar on top shows: number of killings in categories -- left to right: children, civilians, high profile, "other"
+* graphic below: same data as above, but for each drone strike 
+
+--- 
+
+# Recap - angesprochene Themen
 
 * Autonomous Drones
 * Image Recognition
@@ -294,27 +322,38 @@ dual use: only with increased ethical understanding of computer scientists, whic
 
 other stuff
 
+---
+
 # Discussion Questions
 
-What do you think about the "game of consequences"?
+What do you think about the **"game of consequences"**?
 
 What is scarier: autonomous killer drones existing or being controlled by majority vote? <!-- not sure about this one; sthg related to how present-time killer drones are controlled -->
 
-Where do you think the biggest fuck-up leading to this scenario happened?
+Where do you think the **biggest fuck-up** leading to this scenario happened?
 
-Do you think using the ADIs for surveillance is defensible? What about that database?
+Do you think using the **ADIs for surveillance** is defensible? What about that **database**?
 
 ---
 
 # Sources
+
+<!-- TODO chicago-style me -->
+
+[09]: Datta Burton et al. 2018 = report  
+[10]: Datta Burton et al. 2018a = presentation
 
 [11]:  https://web.archive.org/web/20070311090139/http://www.timesonline.co.uk/tol/news/uk/article1013136.ece
 [12]: https://www.news.at/a/personenstandsregister-daten-zusammengefuehrt
 [13]: https://www.bmi.gv.at/414/start.aspx
 [14]: https://derstandard.at/2000007395181/Personenstandsregister-Das-Standesamt-ist-ein-Serverraum
 [15]: http://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm
+[16]: https://www.the-tls.co.uk/articles/public/state-sponsored-assassination/
+[17]: https://www.huffingtonpost.com/john-w-whitehead/terror-tuesdays-kill-list_b_1606371.html
+[18]: https://www.theguardian.com/world/2013/jul/14/obama-secret-kill-list-disposition-matrix
 
-Datta Burton et al. 2018a = presentation
-Datta Burton et al. 2018 = report
+
 
 ---
+
+
