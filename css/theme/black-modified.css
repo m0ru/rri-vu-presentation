@@ -238,6 +238,10 @@ body {
 .reveal small * {
   vertical-align: top; }
 
+.caption {
+  font-size: 1rem !important;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
